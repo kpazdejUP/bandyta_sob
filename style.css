@@ -1,0 +1,43 @@
+body {
+	background-color: #f3f7fa;
+}
+
+#pole1,
+#pole2,
+#pole3 {
+	width: 30%;
+	float: left;
+	margin-left: 20px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+#przycisk {
+	clear: both;
+}
+
+button {
+	font-size: 20px;
+	background-color: #25956f;
+	width: 18vh;
+	height: 10vw;
+}
+
+#ramka {
+	text-align: center;
+	background-color: rgba(192, 237, 222, 0.3);
+	width: 60%;
+	margin: auto;
+	border-radius: 20px;
+
+}
+
+#wynik {
+	width: 18vh;
+	height: 10vw;
+	border: solid #25956f;
+	margin: auto;
+}
